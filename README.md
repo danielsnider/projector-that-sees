@@ -1,5 +1,5 @@
 #A projector that sees (maybe someday)
-If I had the time I would develop this project further so that a projector could look around it's environment and find a good place to project, and maybe consider where the viewer is looking. However this is just a hacked together concept of how computer vision could be used to find a nice spot, the biggest open spot to projet.
+If I find the time I will get hardware so that a projector could look around it's environment and find a good place to project. However, for now I only this software which uses OpenCV to find a nice spot, the biggest open spot to projet on.
 
 ![video wall](https://dl.dropbox.com/u/345086/vidwall.PNG "Video Wall")
 
