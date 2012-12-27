@@ -1,6 +1,5 @@
 #A projector that sees (maybe someday)
-If I find the time I will get hardware so that a projector could look around it's environment and find a good place to project. However, for now I only this software which uses OpenCV to find a nice spot, the biggest open spot to projet on.
-
+A long way to go but this was the dream. This was just a single vision algorithm that may be needed. The one that determines the best position and size for a projector to operate on in a given frame (and shows a sample video in that screen space).
 ![video wall](https://dl.dropbox.com/u/345086/vidwall.PNG "Video Wall")
 
 ##Dependencies
