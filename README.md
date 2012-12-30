@@ -1,5 +1,5 @@
 #A projector that sees (maybe someday)
-A long way to go but this was the dream. This was just a single vision algorithm that may be needed. The one that determines the best position and size for a projector to operate on in a given frame (and shows a sample video in that screen space).
+A computer vision algorithm to choose the best place for video projection in a scene or your webcam. A sample video is also played in the space to simulate a video projection.
 ![video wall](https://dl.dropbox.com/u/345086/vidwall.PNG "Video Wall")
 
 ##Dependencies
